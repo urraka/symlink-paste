@@ -4,8 +4,9 @@ This is a small utility for windows that will let you create symbolic links by r
 
 ## Installation ##
 
-1. Copy symlink-paste.exe to a known search path (e.g., c:\windows\system32).
-2. Run symlink-paste.reg.
+1. Download symlink-paste.zip from Downloads.
+2. Copy symlink-paste.exe to a known search path (e.g., c:\windows\system32).
+3. Run symlink-paste.reg.
 
 ## Usage ##
 
